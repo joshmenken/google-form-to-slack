@@ -1,4 +1,4 @@
-# Google Forms to Slack Integration Test
+# Google Forms to Slack Integration
 
 This Google Apps Script automatically sends all Google Form submissions to a Slack channel using Slack's incoming webhook.
 
